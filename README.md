@@ -1,2 +1,2 @@
-# random-password-generator
-An application to generate random passwords of different lengths with the choice of including different types of characters, also tells the strength of the password according to the pre-defined rules.
+# RandomPass
+RandomPass is a versatile password generator designed to help users create strong, secure passwords that are difficult to guess. It offers customizable options to generate passwords of varying lengths and complexities, incorporating a diverse range of characters, including uppercase and lowercase letters, numbers, and symbols. Additionally, RandomPass provides an assessment of password strength based on predefined criteria, ensuring that users can confidently choose passwords that are resistant to hacking attempts.
